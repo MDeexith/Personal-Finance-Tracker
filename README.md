@@ -50,5 +50,5 @@ Tech stack:
 </ul>
 
 Product demo:
-![screenshotnf](https://drive.google.com/file/d/1Zw0xaLQerjUMGOO0QrNPYbmNlJ1q0RLY/view?usp=sharing)
+![screenshotnf](./ScreenShot.png)
 
